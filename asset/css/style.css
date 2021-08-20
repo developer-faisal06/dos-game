@@ -79,7 +79,7 @@ li.nav-item:hover:after{
 -------------------------------=---------*/
 tr td {
    font-weight: bold;
-    border-radius: 10px;
+    border-radius: 5px;
 }
 tr td:hover{
      box-shadow: inset -6px -7px 17px -8px !important;
@@ -172,3 +172,25 @@ li:last-child a{
     border: none !important;
 
 }
+
+
+
+/* Forum Page  */
+
+/* massage section  */
+.massage{
+    margin-top: 100px;
+}
+.massage tr td:last-child{
+    text-align: right;
+}
+.massage p{
+    margin: 0;
+}
+.massage th{
+    text-align: center;
+}
+.massage th img{
+    width: 40px;
+ margin-top: 8px;
+   text-align: center;}
